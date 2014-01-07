@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  7 JAN 2014 14:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  7 JAN 2014 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -55,6 +55,223 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/pslatex/pslatex.sty
 Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
@@ -143,7 +360,7 @@ Package: amstext 2000/06/29 v2.01
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks16
+\@emptytoks=\toks18
 \ex@=\dimen113
 ))
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -173,35 +390,35 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \dotsspace@=\muskip11
 \c@parentequation=\count99
 \dspbrk@lvl=\count100
-\tag@help=\toks17
+\tag@help=\toks19
 \row@=\count101
 \column@=\count102
 \maxfields@=\count103
-\andhelp@=\toks18
+\andhelp@=\toks20
 \eqnshift@=\dimen116
 \alignsep@=\dimen117
 \tagshift@=\dimen118
 \tagwidth@=\dimen119
 \totwidth@=\dimen120
 \lineht@=\dimen121
-\@envbody=\toks19
+\@envbody=\toks21
 \multlinegap=\skip53
 \multlinetaggap=\skip54
-\mathdisplay@stack=\toks20
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2004/08/06 v2.20
-\thm@style=\toks21
-\thm@bodyfont=\toks22
-\thm@headfont=\toks23
-\thm@notefont=\toks24
-\thm@headpunct=\toks25
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
 \thm@preskip=\skip55
 \thm@postskip=\skip56
 \thm@headsep=\skip57
-\dth@everypar=\toks26
+\dth@everypar=\toks28
 )
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -300,7 +517,81 @@ Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-)
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
 LaTeX Info: Redefining \oldstylenums on input line 266.
 Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
 Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
@@ -440,12 +731,12 @@ LaTeX Font Info:    ... okay on input line 52.
 \scratchbox=\box35
 \nofMPsegments=\count122
 \nofMParguments=\count123
-\everyMPshowfont=\toks27
+\everyMPshowfont=\toks29
 \MPscratchCnt=\count124
 \MPscratchDim=\dimen123
 \MPnumerator=\count125
 \makeMPintoPDFobject=\count126
-\everyMPtoPDFconversion=\toks28
+\everyMPtoPDFconversion=\toks30
 ) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -577,14 +868,14 @@ Package epstopdf Info: Source file: <figs/interpret.eps>
 (epstopdf)                    size: 4678 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/interpret-eps-convert
 ed-to.pdf figs/interpret.eps>
-(epstopdf)             \includegraphics on input line 776.
+(epstopdf)             \includegraphics on input line 775.
 Package epstopdf Info: Output file is already uptodate.
  <figs/interpret-eps-converted-to.pdf, id=73, 264.99pt x 62.2325pt>
 File: figs/interpret-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/interpret-eps-converted-to.pdf>
 Package pdftex.def Info: figs/interpret-eps-converted-to.pdf used on input line
- 776.
+ 775.
 (pdftex.def)             Requested size: 236.96037pt x 55.64821pt.
 Package epstopdf Info: Source file: <figs/compile.eps>
 (epstopdf)                    date: 2014-01-07 13:49:12
@@ -594,7 +885,7 @@ Package epstopdf Info: Source file: <figs/compile.eps>
 (epstopdf)                    size: 5192 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/compile-eps-converted
 -to.pdf figs/compile.eps>
-(epstopdf)             \includegraphics on input line 790.
+(epstopdf)             \includegraphics on input line 789.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/compile-eps-converted-to.pdf, id=74, 387.4475pt x 62.2325pt>
@@ -602,17 +893,17 @@ File: figs/compile-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/compile-eps-converted-to.pdf>
 Package pdftex.def Info: figs/compile-eps-converted-to.pdf used on input line 7
-90.
+89.
 (pdftex.def)             Requested size: 346.4648pt x 55.64821pt.
  [2 <./figs/interpret-eps-converted-to.pdf> <./figs/compile-eps-converted-to.pd
 f>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 895.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 894.
  [3] [4]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1088.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1087.
  [5]
-LaTeX Font Info:    Try loading font information for TS1+pcr on input line 1141
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 1140
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ts1pcr.fd
@@ -631,14 +922,14 @@ Package epstopdf Info: Source file: <figs/state2.eps>
 (epstopdf)                    size: 6447 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/state2-eps-converted-
 to.pdf figs/state2.eps>
-(epstopdf)             \includegraphics on input line 1525.
+(epstopdf)             \includegraphics on input line 1524.
 Package epstopdf Info: Output file is already uptodate.
  <figs/state2-eps-converted-to.pdf, id=112, 313.17pt x 60.225pt>
 File: figs/state2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/state2-eps-converted-to.pdf>
 Package pdftex.def Info: figs/state2-eps-converted-to.pdf used on input line 15
-25.
+24.
 (pdftex.def)             Requested size: 313.16922pt x 60.22484pt.
  [10 <./figs/state2-eps-converted-to.pdf>] [11] [12] [13] [14] [15] [16]
 Chapter 3.
@@ -653,7 +944,7 @@ Package epstopdf Info: Source file: <figs/stack.eps>
 (epstopdf)                    size: 5858 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/stack-eps-converted-t
 o.pdf figs/stack.eps>
-(epstopdf)             \includegraphics on input line 2749.
+(epstopdf)             \includegraphics on input line 2748.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/stack-eps-converted-to.pdf, id=162, 271.0125pt x 141.52875pt>
@@ -661,7 +952,7 @@ File: figs/stack-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/stack-eps-converted-to.pdf>
 Package pdftex.def Info: figs/stack-eps-converted-to.pdf used on input line 274
-9.
+8.
 (pdftex.def)             Requested size: 271.01183pt x 141.5284pt.
  [23 <./figs/stack-eps-converted-to.pdf>]
 [24] [25] [26] [27] [28]
@@ -669,7 +960,7 @@ Chapter 4.
 [29
 
 ] [30]
-Underfull \hbox (badness 1163) in paragraph at lines 3391--3393
+Underfull \hbox (badness 1163) in paragraph at lines 3390--3392
 []\OT1/ptm/m/n/10 Hint: fig-ure out the cir-cum-fer-ence of the cir-cle and mak
 e sure that \OT1/pcr/m/n/10 length * n =
  []
@@ -683,7 +974,7 @@ Package epstopdf Info: Source file: <figs/flowers.eps>
 (epstopdf)                    size: 12466 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/flowers-eps-converted
 -to.pdf figs/flowers.eps>
-(epstopdf)             \includegraphics on input line 3869.
+(epstopdf)             \includegraphics on input line 3868.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/flowers-eps-converted-to.pdf, id=212, 264.99pt x 103.38625pt>
@@ -691,7 +982,7 @@ File: figs/flowers-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/flowers-eps-converted-to.pdf>
 Package pdftex.def Info: figs/flowers-eps-converted-to.pdf used on input line 3
-869.
+868.
 (pdftex.def)             Requested size: 185.24104pt x 72.26999pt.
  [36]
 Package epstopdf Info: Source file: <figs/pies.eps>
@@ -702,14 +993,14 @@ Package epstopdf Info: Source file: <figs/pies.eps>
 (epstopdf)                    size: 2855 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/pies-eps-converted-to
 .pdf figs/pies.eps>
-(epstopdf)             \includegraphics on input line 3882.
+(epstopdf)             \includegraphics on input line 3881.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/pies-eps-converted-to.pdf, id=216, 220.825pt x 72.27pt>
 File: figs/pies-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/pies-eps-converted-to.pdf>
-Package pdftex.def Info: figs/pies-eps-converted-to.pdf used on input line 3882
+Package pdftex.def Info: figs/pies-eps-converted-to.pdf used on input line 3881
 .
 (pdftex.def)             Requested size: 198.75076pt x 65.04256pt.
  [37 <./figs/flowers-eps-converted-to.pdf> <./figs/pies-eps-converted-to.pdf>] 
@@ -726,7 +1017,7 @@ Package epstopdf Info: Source file: <figs/stack2.eps>
 (epstopdf)                    size: 5136 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/stack2-eps-converted-
 to.pdf figs/stack2.eps>
-(epstopdf)             \includegraphics on input line 4360.
+(epstopdf)             \includegraphics on input line 4359.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/stack2-eps-converted-to.pdf, id=240, 131.49126pt x 151.56625pt>
@@ -734,11 +1025,11 @@ File: figs/stack2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/stack2-eps-converted-to.pdf>
 Package pdftex.def Info: figs/stack2-eps-converted-to.pdf used on input line 43
-60.
+59.
 (pdftex.def)             Requested size: 131.49092pt x 151.56587pt.
  [43]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 4442.
+(Font)              scaled to size 8.99994pt on input line 4441.
  [44 <./figs/stack2-eps-converted-to.pdf>] [45] [46] [47]
 Package epstopdf Info: Source file: <figs/koch.eps>
 (epstopdf)                    date: 2014-01-07 13:49:12
@@ -748,14 +1039,14 @@ Package epstopdf Info: Source file: <figs/koch.eps>
 (epstopdf)                    size: 8753 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/koch-eps-converted-to
 .pdf figs/koch.eps>
-(epstopdf)             \includegraphics on input line 4770.
+(epstopdf)             \includegraphics on input line 4769.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/koch-eps-converted-to.pdf, id=264, 258.9675pt x 78.2925pt>
 File: figs/koch-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/koch-eps-converted-to.pdf>
-Package pdftex.def Info: figs/koch-eps-converted-to.pdf used on input line 4770
+Package pdftex.def Info: figs/koch-eps-converted-to.pdf used on input line 4769
 .
 (pdftex.def)             Requested size: 239.05513pt x 72.26999pt.
  [48 <./figs/koch-eps-converted-to.pdf>]
@@ -772,7 +1063,7 @@ Package epstopdf Info: Source file: <figs/stack3.eps>
 (epstopdf)                    size: 6060 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/stack3-eps-converted-
 to.pdf figs/stack3.eps>
-(epstopdf)             \includegraphics on input line 5378.
+(epstopdf)             \includegraphics on input line 5377.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/stack3-eps-converted-to.pdf, id=293, 321.2pt x 150.5625pt>
@@ -780,7 +1071,7 @@ File: figs/stack3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/stack3-eps-converted-to.pdf>
 Package pdftex.def Info: figs/stack3-eps-converted-to.pdf used on input line 53
-78.
+77.
 (pdftex.def)             Requested size: 321.19922pt x 150.56212pt.
  [56] [57 <./figs/stack3-eps-converted-to.pdf>] [58] [59] [60] [61] [62]
 Chapter 7.
@@ -792,14 +1083,14 @@ Package epstopdf Info: Source file: <figs/assign2.eps>
 (epstopdf)                    size: 4361 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/assign2-eps-converted
 -to.pdf figs/assign2.eps>
-(epstopdf)             \includegraphics on input line 5858.
+(epstopdf)             \includegraphics on input line 5857.
 Package epstopdf Info: Output file is already uptodate.
 <figs/assign2-eps-converted-to.pdf, id=321, 79.29625pt x 43.16125pt>
 File: figs/assign2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/assign2-eps-converted-to.pdf>
 Package pdftex.def Info: figs/assign2-eps-converted-to.pdf used on input line 5
-858.
+857.
 (pdftex.def)             Requested size: 79.29604pt x 43.16113pt.
  [63
 
@@ -816,14 +1107,14 @@ Package epstopdf Info: Source file: <figs/banana.eps>
 (epstopdf)                    size: 5541 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/banana-eps-converted-
 to.pdf figs/banana.eps>
-(epstopdf)             \includegraphics on input line 6687.
+(epstopdf)             \includegraphics on input line 6686.
 Package epstopdf Info: Output file is already uptodate.
  <figs/banana-eps-converted-to.pdf, id=360, 195.73125pt x 52.195pt>
 File: figs/banana-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/banana-eps-converted-to.pdf>
 Package pdftex.def Info: figs/banana-eps-converted-to.pdf used on input line 66
-87.
+86.
 (pdftex.def)             Requested size: 195.73076pt x 52.19487pt.
  [73 <./figs/banana-eps-converted-to.pdf>] [74] [75] [76] [77]
 Package epstopdf Info: Source file: <figs/state4.eps>
@@ -834,7 +1125,7 @@ Package epstopdf Info: Source file: <figs/state4.eps>
 (epstopdf)                    size: 5167 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/state4-eps-converted-
 to.pdf figs/state4.eps>
-(epstopdf)             \includegraphics on input line 7183.
+(epstopdf)             \includegraphics on input line 7182.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/state4-eps-converted-to.pdf, id=383, 245.91875pt x 56.21pt>
@@ -842,16 +1133,16 @@ File: figs/state4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/state4-eps-converted-to.pdf>
 Package pdftex.def Info: figs/state4-eps-converted-to.pdf used on input line 71
-83.
+82.
 (pdftex.def)             Requested size: 245.91814pt x 56.20985pt.
  [78 <./figs/state4-eps-converted-to.pdf>]
-Underfull \hbox (badness 2213) in paragraph at lines 7287--7292
+Underfull \hbox (badness 2213) in paragraph at lines 7286--7291
 \OT1/ptm/b/n/10 Exercise 8.10 \OT1/ptm/m/n/10 Read the doc-u-men-ta-tion of the
  string meth-ods at $\OT1/pcr/m/n/10 docs . python . org / lib /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7293--7298
+Underfull \hbox (badness 10000) in paragraph at lines 7292--7297
 []\OT1/ptm/m/n/10 The doc-u-men-ta-tion uses a syn-tax that might be con-fus-in
 g. For ex-am-ple, in
  []
@@ -873,14 +1164,14 @@ Package epstopdf Info: Source file: <figs/list_state.eps>
 (epstopdf)                    size: 6533 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/list_state-eps-conver
 ted-to.pdf figs/list_state.eps>
-(epstopdf)             \includegraphics on input line 8076.
+(epstopdf)             \includegraphics on input line 8075.
 Package epstopdf Info: Output file is already uptodate.
  <figs/list_state-eps-converted-to.pdf, id=428, 218.8175pt x 204.765pt>
 File: figs/list_state-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/list_state-eps-converted-to.pdf>
 Package pdftex.def Info: figs/list_state-eps-converted-to.pdf used on input lin
-e 8076.
+e 8075.
 (pdftex.def)             Requested size: 218.81696pt x 204.76448pt.
  [90 <./figs/list_state-eps-converted-to.pdf>] [91] [92] [93] [94]
 Package epstopdf Info: Source file: <figs/list1.eps>
@@ -891,7 +1182,7 @@ Package epstopdf Info: Source file: <figs/list1.eps>
 (epstopdf)                    size: 4399 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/list1-eps-converted-t
 o.pdf figs/list1.eps>
-(epstopdf)             \includegraphics on input line 8705.
+(epstopdf)             \includegraphics on input line 8704.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/list1-eps-converted-to.pdf, id=450, 218.8175pt x 42.1575pt>
@@ -899,7 +1190,7 @@ File: figs/list1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/list1-eps-converted-to.pdf>
 Package pdftex.def Info: figs/list1-eps-converted-to.pdf used on input line 870
-5.
+4.
 (pdftex.def)             Requested size: 218.81696pt x 42.15738pt.
  [95]
 Package epstopdf Info: Source file: <figs/list2.eps>
@@ -910,7 +1201,7 @@ Package epstopdf Info: Source file: <figs/list2.eps>
 (epstopdf)                    size: 4474 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/list2-eps-converted-t
 o.pdf figs/list2.eps>
-(epstopdf)             \includegraphics on input line 8747.
+(epstopdf)             \includegraphics on input line 8746.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/list2-eps-converted-to.pdf, id=455, 97.36375pt x 43.16125pt>
@@ -918,7 +1209,7 @@ File: figs/list2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/list2-eps-converted-to.pdf>
 Package pdftex.def Info: figs/list2-eps-converted-to.pdf used on input line 874
-7.
+6.
 (pdftex.def)             Requested size: 97.3635pt x 43.16113pt.
 Package epstopdf Info: Source file: <figs/list3.eps>
 (epstopdf)                    date: 2014-01-07 13:49:12
@@ -928,7 +1219,7 @@ Package epstopdf Info: Source file: <figs/list3.eps>
 (epstopdf)                    size: 4496 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/list3-eps-converted-t
 o.pdf figs/list3.eps>
-(epstopdf)             \includegraphics on input line 8793.
+(epstopdf)             \includegraphics on input line 8792.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/list3-eps-converted-to.pdf, id=456, 97.36375pt x 43.16125pt>
@@ -936,7 +1227,7 @@ File: figs/list3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/list3-eps-converted-to.pdf>
 Package pdftex.def Info: figs/list3-eps-converted-to.pdf used on input line 879
-3.
+2.
 (pdftex.def)             Requested size: 97.3635pt x 43.16113pt.
  [96 <./figs/list1-eps-converted-to.pdf> <./figs/list2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figs/stack5.eps>
@@ -947,7 +1238,7 @@ Package epstopdf Info: Source file: <figs/stack5.eps>
 (epstopdf)                    size: 5498 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/stack5-eps-converted-
 to.pdf figs/stack5.eps>
-(epstopdf)             \includegraphics on input line 8878.
+(epstopdf)             \includegraphics on input line 8877.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/stack5-eps-converted-to.pdf, id=471, 227.85126pt x 74.2775pt>
@@ -955,7 +1246,7 @@ File: figs/stack5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/stack5-eps-converted-to.pdf>
 Package pdftex.def Info: figs/stack5-eps-converted-to.pdf used on input line 88
-78.
+77.
 (pdftex.def)             Requested size: 227.8507pt x 74.27731pt.
  [97 <./figs/list3-eps-converted-to.pdf> <./figs/stack5-eps-converted-to.pdf>] 
 [98] [99] [100] [101] [102
@@ -971,15 +1262,15 @@ Package epstopdf Info: Source file: <figs/dict1.eps>
 (epstopdf)                    size: 5977 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/dict1-eps-converted-t
 o.pdf figs/dict1.eps>
-(epstopdf)             \includegraphics on input line 9800.
+(epstopdf)             \includegraphics on input line 9799.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/dict1-eps-converted-to.pdf, id=519, 317.185pt x 134.5025pt>
 File: figs/dict1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/dict1-eps-converted-to.pdf>
-Package pdftex.def Info: figs/dict1-eps-converted-to.pdf used on input line 980
-0.
+Package pdftex.def Info: figs/dict1-eps-converted-to.pdf used on input line 979
+9.
 (pdftex.def)             Requested size: 317.1842pt x 134.50215pt.
  [108 <./figs/dict1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figs/fibonacci.eps>
@@ -990,17 +1281,17 @@ Package epstopdf Info: Source file: <figs/fibonacci.eps>
 (epstopdf)                    size: 5605 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/fibonacci-eps-convert
 ed-to.pdf figs/fibonacci.eps>
-(epstopdf)             \includegraphics on input line 9878.
+(epstopdf)             \includegraphics on input line 9877.
 Package epstopdf Info: Output file is already uptodate.
 <figs/fibonacci-eps-converted-to.pdf, id=529, 309.155pt x 218.8175pt>
 File: figs/fibonacci-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/fibonacci-eps-converted-to.pdf>
 Package pdftex.def Info: figs/fibonacci-eps-converted-to.pdf used on input line
- 9878.
+ 9877.
 (pdftex.def)             Requested size: 204.21274pt x 144.54pt.
  [109 <./figs/fibonacci-eps-converted-to.pdf>]
-Underfull \hbox (badness 1460) in paragraph at lines 10000--10003
+Underfull \hbox (badness 1460) in paragraph at lines 9999--10002
 \OT1/ptm/m/n/10 The \OT1/pcr/m/n/10 global \OT1/ptm/m/n/10 state-ment tells the
  in-ter-preter some-thing like, ``In this func-tion, when I say
  []
@@ -1018,7 +1309,7 @@ Package epstopdf Info: Source file: <figs/tuple1.eps>
 (epstopdf)                    size: 4939 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/tuple1-eps-converted-
 to.pdf figs/tuple1.eps>
-(epstopdf)             \includegraphics on input line 10969.
+(epstopdf)             \includegraphics on input line 10968.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/tuple1-eps-converted-to.pdf, id=570, 123.46124pt x 53.19875pt>
@@ -1026,7 +1317,7 @@ File: figs/tuple1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/tuple1-eps-converted-to.pdf>
 Package pdftex.def Info: figs/tuple1-eps-converted-to.pdf used on input line 10
-969.
+968.
 (pdftex.def)             Requested size: 123.46092pt x 53.19861pt.
 Package epstopdf Info: Source file: <figs/dict2.eps>
 (epstopdf)                    date: 2014-01-07 13:49:12
@@ -1036,7 +1327,7 @@ Package epstopdf Info: Source file: <figs/dict2.eps>
 (epstopdf)                    size: 6538 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/dict2-eps-converted-t
 o.pdf figs/dict2.eps>
-(epstopdf)             \includegraphics on input line 10977.
+(epstopdf)             \includegraphics on input line 10976.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/dict2-eps-converted-to.pdf, id=571, 231.86626pt x 125.46875pt>
@@ -1044,7 +1335,7 @@ File: figs/dict2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/dict2-eps-converted-to.pdf>
 Package pdftex.def Info: figs/dict2-eps-converted-to.pdf used on input line 109
-77.
+76.
 (pdftex.def)             Requested size: 231.86568pt x 125.46843pt.
  [120 <./figs/tuple1-eps-converted-to.pdf> <./figs/dict2-eps-converted-to.pdf>]
  [121] [122] [123] [124]
@@ -1052,12 +1343,12 @@ Chapter 13.
 [125
 
 ] [126] [127] [128] [129]
-Underfull \hbox (badness 10000) in paragraph at lines 11946--11955
+Underfull \hbox (badness 10000) in paragraph at lines 11945--11954
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11946--11955
+Underfull \hbox (badness 10000) in paragraph at lines 11945--11954
 
  []
 
@@ -1078,14 +1369,14 @@ Package epstopdf Info: Source file: <figs/point.eps>
 (epstopdf)                    size: 4956 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/point-eps-converted-t
 o.pdf figs/point.eps>
-(epstopdf)             \includegraphics on input line 13442.
+(epstopdf)             \includegraphics on input line 13441.
 Package epstopdf Info: Output file is already uptodate.
  <figs/point-eps-converted-to.pdf, id=667, 118.4425pt x 53.19875pt>
 File: figs/point-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/point-eps-converted-to.pdf>
 Package pdftex.def Info: figs/point-eps-converted-to.pdf used on input line 134
-42.
+41.
 (pdftex.def)             Requested size: 118.4422pt x 53.19861pt.
  [146 <./figs/point-eps-converted-to.pdf>] [147]
 Package epstopdf Info: Source file: <figs/rectangle.eps>
@@ -1096,14 +1387,14 @@ Package epstopdf Info: Source file: <figs/rectangle.eps>
 (epstopdf)                    size: 5762 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/rectangle-eps-convert
 ed-to.pdf figs/rectangle.eps>
-(epstopdf)             \includegraphics on input line 13584.
+(epstopdf)             \includegraphics on input line 13583.
 Package epstopdf Info: Output file is already uptodate.
  <figs/rectangle-eps-converted-to.pdf, id=679, 216.81pt x 71.26625pt>
 File: figs/rectangle-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/rectangle-eps-converted-to.pdf>
 Package pdftex.def Info: figs/rectangle-eps-converted-to.pdf used on input line
- 13584.
+ 13583.
 (pdftex.def)             Requested size: 216.80946pt x 71.26605pt.
  [148 <./figs/rectangle-eps-converted-to.pdf>] [149]
 Package epstopdf Info: Source file: <figs/rectangle2.eps>
@@ -1114,7 +1405,7 @@ Package epstopdf Info: Source file: <figs/rectangle2.eps>
 (epstopdf)                    size: 5591 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/rectangle2-eps-conver
 ted-to.pdf figs/rectangle2.eps>
-(epstopdf)             \includegraphics on input line 13763.
+(epstopdf)             \includegraphics on input line 13762.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/rectangle2-eps-converted-to.pdf, id=692, 360.34625pt x 60.225pt>
@@ -1122,10 +1413,10 @@ File: figs/rectangle2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/rectangle2-eps-converted-to.pdf>
 Package pdftex.def Info: figs/rectangle2-eps-converted-to.pdf used on input lin
-e 13763.
+e 13762.
 (pdftex.def)             Requested size: 360.34537pt x 60.22484pt.
  [150 <./figs/rectangle2-eps-converted-to.pdf>] [151]
-Underfull \hbox (badness 1024) in paragraph at lines 14017--14019
+Underfull \hbox (badness 1024) in paragraph at lines 14016--14018
 []\OT1/ptm/m/n/10 I have writ-ten a small pro-gram that lists the avail-able co
 l-ors; you can down-load it from
  []
@@ -1140,14 +1431,14 @@ Package epstopdf Info: Source file: <figs/time.eps>
 (epstopdf)                    size: 5308 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/time-eps-converted-to
 .pdf figs/time.eps>
-(epstopdf)             \includegraphics on input line 14067.
+(epstopdf)             \includegraphics on input line 14066.
 Package epstopdf Info: Output file is already uptodate.
 <figs/time-eps-converted-to.pdf, id=707, 136.51pt x 71.26625pt>
 File: figs/time-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/time-eps-converted-to.pdf>
 Package pdftex.def Info: figs/time-eps-converted-to.pdf used on input line 1406
-7.
+6.
 (pdftex.def)             Requested size: 136.50966pt x 71.26605pt.
 
 Underfull \vbox (badness 1205) has occurred while \output is active []
@@ -1171,7 +1462,7 @@ Package epstopdf Info: Source file: <figs/card1.eps>
 (epstopdf)                    size: 5470 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/card1-eps-converted-t
 o.pdf figs/card1.eps>
-(epstopdf)             \includegraphics on input line 15613.
+(epstopdf)             \includegraphics on input line 15612.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/card1-eps-converted-to.pdf, id=770, 194.7275pt x 155.58125pt>
@@ -1179,7 +1470,7 @@ File: figs/card1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/card1-eps-converted-to.pdf>
 Package pdftex.def Info: figs/card1-eps-converted-to.pdf used on input line 156
-13.
+12.
 (pdftex.def)             Requested size: 194.727pt x 155.58086pt.
  [171 <./figs/card1-eps-converted-to.pdf>] [172] [173] [174] [175]
 Package epstopdf Info: Source file: <figs/class1.eps>
@@ -1190,7 +1481,7 @@ Package epstopdf Info: Source file: <figs/class1.eps>
 (epstopdf)                    size: 4742 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/class1-eps-converted-
 to.pdf figs/class1.eps>
-(epstopdf)             \includegraphics on input line 16085.
+(epstopdf)             \includegraphics on input line 16084.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/class1-eps-converted-to.pdf, id=792, 150.5625pt x 87.32625pt>
@@ -1198,7 +1489,7 @@ File: figs/class1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/class1-eps-converted-to.pdf>
 Package pdftex.def Info: figs/class1-eps-converted-to.pdf used on input line 16
-085.
+084.
 (pdftex.def)             Requested size: 150.56212pt x 87.32603pt.
  [176 <./figs/class1-eps-converted-to.pdf>] [177] [178] [179] [180
 
@@ -1213,7 +1504,7 @@ Package epstopdf Info: Source file: <figs/TurtleWorld.eps>
 (epstopdf)                    size: 9378 bytes
 (epstopdf)             Command: <repstopdf --outfile=figs/TurtleWorld-eps-conve
 rted-to.pdf figs/TurtleWorld.eps>
-(epstopdf)             \includegraphics on input line 16857.
+(epstopdf)             \includegraphics on input line 16856.
 Package epstopdf Info: Output file is already uptodate.
 
 <figs/TurtleWorld-eps-converted-to.pdf, id=827, 597.23125pt x 432.61626pt>
@@ -1221,7 +1512,7 @@ File: figs/TurtleWorld-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/TurtleWorld-eps-converted-to.pdf>
 Package pdftex.def Info: figs/TurtleWorld-eps-converted-to.pdf used on input li
-ne 16857.
+ne 16856.
 (pdftex.def)             Requested size: 397.48499pt x 287.93044pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1236,10 +1527,10 @@ Appendix A.
 No file book.ind.
 [202] (./book.aux) ) 
 Here is how much of TeX's memory you used:
- 4842 strings out of 493315
- 69225 string characters out of 6137904
- 125426 words of memory out of 5000000
- 8118 multiletter control sequences out of 15000+600000
+ 5108 strings out of 493315
+ 71597 string characters out of 6137904
+ 128479 words of memory out of 5000000
+ 8367 multiletter control sequences out of 15000+600000
  62971 words of font info for 131 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,12n,43p,266b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1255,7 +1546,7 @@ ive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/201
 t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on book.pdf (222 pages, 621700 bytes).
+Output written on book.pdf (222 pages, 622124 bytes).
 PDF statistics:
  935 PDF objects out of 1000 (max. 8388607)
  640 compressed objects within 7 object streams
