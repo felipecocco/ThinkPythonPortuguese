@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/53/trunk
+END
+latexonly
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/latexonly
+END
+next.png
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/48/trunk/next.png
+END
+back.png
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/48/trunk/back.png
+END
+htmlonly
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/45/trunk/htmlonly
+END
+up.png
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/48/trunk/up.png
+END
+book.tex
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/53/trunk/book.tex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/50/trunk/Makefile
+END

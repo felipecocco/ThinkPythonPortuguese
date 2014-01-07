@@ -1,0 +1,1 @@
+Repo for the translation of ThinkPython in Portuguese
